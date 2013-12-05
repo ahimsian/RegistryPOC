@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testclasses>
+  <registryPOC>
+    <testclass>com.hybris.belk.poc.jalo.RegistryPOCTest</testclass>
+  </registryPOC>
+</testclasses>
